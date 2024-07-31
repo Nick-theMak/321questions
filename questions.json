@@ -1,0 +1,135 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following is a common method used in phishing attacks?",
+        "options": ["SQL Injection", "Email Spoofing", "Brute Force", "Denial of Service"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the primary purpose of a firewall?",
+        "options": ["To manage network traffic", "To encrypt data", "To monitor employee productivity", "To block unauthorized access"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which cybersecurity principle involves maintaining the accuracy and reliability of data?",
+        "options": ["Confidentiality", "Integrity", "Availability", "Authentication"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the practice of protecting information by transforming it into an unreadable format?",
+        "options": ["Decryption", "Encryption", "Hashing", "Tokenization"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What type of malware is designed to spread across networks by exploiting vulnerabilities?",
+        "options": ["Virus", "Worm", "Trojan", "Spyware"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which security measure involves verifying the identity of a user before allowing access?",
+        "options": ["Authorization", "Authentication", "Accounting", "Auditing"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What does the 'CIA' triad stand for in cybersecurity?",
+        "options": [
+          "Confidentiality, Integrity, Availability",
+          "Confidentiality, Identity, Accessibility",
+          "Confidentiality, Integrity, Authentication",
+          "Confidentiality, Information, Authorization"
+        ],
+        "correctOption": 0,
+        "points": 30
+      },
+      {
+        "question": "What type of attack involves overwhelming a system with traffic to render it unusable?",
+        "options": [
+          "Phishing",
+          "Man-in-the-Middle",
+          "Denial of Service (DoS)",
+          "Cross-site Scripting (XSS)"
+        ],
+        "correctOption": 2,
+        "points": 20
+      },
+      {
+        "question": "Which tool is commonly used to test network security by simulating attacks?",
+        "options": [
+          "Antivirus",
+          "Penetration Testing Tool",
+          "Firewall",
+          "Encryption Software"
+        ],
+        "correctOption": 1,
+        "points": 20
+      },
+      {
+        "question": "What is the process of converting data into a format that is unreadable without a key?",
+        "options": [
+          "Hashing",
+          "Encryption",
+          "Decryption",
+          "Tokenization"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "What is a 'zero-day' vulnerability?",
+        "options": [
+          "A vulnerability that has been known and unpatched for a long time",
+          "A vulnerability discovered and exploited on the same day",
+          "A vulnerability that is only a theory and not yet discovered",
+          "A vulnerability that only affects specific software versions"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "Which tool is used to detect, prevent, and respond to security incidents?",
+        "options": ["SIEM", "VPN", "IDS", "WAF"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the primary goal of a cybersecurity audit?",
+        "options": [
+          "To update antivirus software",
+          "To review and assess security policies and controls",
+          "To train employees on security practices",
+          "To install security patches"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "What is the purpose of multi-factor authentication (MFA)?",
+        "options": [
+          "To encrypt data",
+          "To provide a secondary means of identification",
+          "To increase the speed of logging in",
+          "To allow for password recovery"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "Which type of attack involves tricking a user into providing sensitive information?",
+        "options": [
+          "Phishing",
+          "Brute Force",
+          "SQL Injection",
+          "Man-in-the-Middle"
+        ],
+        "correctOption": 0,
+        "points": 20
+      }
+    ]
+  }
+  
